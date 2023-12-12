@@ -1,6 +1,6 @@
 # basket_of_fruit
 
-A new Flutter project.
+An application built using flutter that saves states locaclly, displays every items count rate and lets users transfer fruits from one basket to the other, or from one tray to the next one!
 
 ## Getting Started
 
